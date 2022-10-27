@@ -1,9 +1,9 @@
-## [labelme](https://github.com/heartexlabs/label-studio/)
-## [labelme 설치방법](https://velog.io/@hssarah/M1-Macbook-labelimg-%EC%84%A4%EC%B9%98)
+## [Label Studio](https://github.com/heartexlabs/label-studio/)
+## [Label Studio 설치방법](https://velog.io/@hssarah/M1-Macbook-labelimg-%EC%84%A4%EC%B9%98)
 
 
-## [Label Studio](https://github.com/wkentaro/labelme)
-## [Label Studio 설치방법](https://intuitive-robotics.tistory.com/107)
+## [labelme](https://github.com/wkentaro/labelme)
+## [labelme 설치방법](https://intuitive-robotics.tistory.com/107)
 
 
 
